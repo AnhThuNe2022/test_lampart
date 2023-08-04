@@ -1,0 +1,17 @@
+
+1.Tải và cài đặt XAMPP:
+
+Truy cập trang chủ của XAMPP (https://www.apachefriends.org/index.html).
+Tải phiên bản phù hợp với hệ điều hành của bạn (Windows, macOS, hoặc Linux).
+Chạy trình cài đặt và làm theo hướng dẫn để cài đặt XAMPP lên máy tính của bạn.
+Khởi động XAMPP và bật Apache và MySQL:
+
+2.Mở XAMPP Control Panel.
+Bấm vào các nút "Start" bên cạnh Apache và MySQL để bật các dịch vụ này.
+
+3Để dự ánchạy trên XAMPP, sao chép mã nguồn của dự án vào thư mục "htdocs" trong thư mục cài đặt XAMPP, ở đây mã nguồn dự án cụ thể là DemoRouter từ git
+4. Cấu hình database: Vào đường dẫn app/configs/config sửa lại cấu hình mysql tương ứng
+
+5. 
+Đường dẫn http://localhost/DemoRouter/product là bài làm 
+
